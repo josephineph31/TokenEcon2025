@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "#1E88E5"          
+backgroundColor = "#0A0F1E"       
+secondaryBackgroundColor = "#101B3A" 
+textColor = "#E3EAF2"             
+font = "sans serif"               
+# 🖥️ General app settings
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+[browser]
+gatherUsageStats = false
+[client]
+toolbarMode = "minimal"
